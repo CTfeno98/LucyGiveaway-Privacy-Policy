@@ -1,2 +1,9 @@
 # LucyGiveaway-Privacy-Policy
-- We do not store any information with the bot. We are not responsible for any illegal action taken.
+**Why do we serve?**
+- We strive to make a properly working raffle boat for you.
+
+**What do we store?**
+- As it is a simple bot, we don't store anything anyway. You can be sure of that!
+
+**How reliable is it?**
+- Since our bot is protected with end-to-end passwords, there is no security gap.
